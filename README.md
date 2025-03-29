@@ -3,6 +3,7 @@ A repository that holds research and music created as a fused integration betwee
 
 Spring 2025 projects include integrating the following traditions:  
 
-Javanese Gamelan-Yoruba 
-Chinese (specific tradition tba) - "Wave"  
+- Javanese Gamelan-Yoruba:  Osaka Noyiagbon  
+- Chinese (specific tradition tba) - "Wave"  
+- Japanese Taiko-MixBeat: Eric White  
 
