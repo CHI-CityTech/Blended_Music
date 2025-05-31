@@ -54,29 +54,30 @@ David and Eric discussed project materials management and Eric's music compositi
 * Human-like nuances are essential to musical expression.
 
 ### 🥊 Taiko Drum Tempo Experimentation
-
 * Suggested tempo range for Taiko: 100–180 BPM.
 * Encourage basic rhythm improv over a metronome.
 * Keep flexible with tempo during drafting phase.
 * Explore sound layering with varied instruments (e.g., piano, flute).
 
 ### 🌍 Expanding Musical Horizons
-
 * Follow genre rules *and* break them creatively.
 * Music should connect to human patterns and emotions.
 * David encourages pushing boundaries for growth.
 * Tycho/mixed beat fusion is seen as fertile ground for exploration.
 
-### 🗓️ Internship Flexibility and Music Discussion
-
+### 🗓️ Internship Flexibility 
 * Internship hours can be flexibly accumulated.
 * Breaks are good for creativity and problem-solving.
-* Discussion of instrument types (violin vs. piano, polyphonic vs. monophonic).
 * Eric aims for 10–15 hours of music work per week.
 
-### 🪘🌄 Tycho-Inspired Rhythm Exercise
+### 🎶 Music Discussion
+* Discussion of instrument types (violin vs. piano, polyphonic vs. monophonic).
+* Single line instruments generally are responsible for the entire note (a violin must bow, a horn player must blow, and if they do not then the music stops)
+* Polyphonic instruments such as piano, the musician is only responsible for teh attack and the release of each note: the event continues internally without any additional attention from teh musician.  This is true also for struck and plucked instruments.
 
-* Assignment: Create a 2-minute Tycho-style rhythm in FL Studio.
+### 🪘🌄 Taiko-Inspired Rhythm Exercise
+
+* Assignment: Create a 2-minute Taiko-style rhythm in FL Studio.
 * Must be played live, focusing on velocity/timing, not looped.
 * Metronome should be used; editing is allowed afterward.
 * Encouragement to experiment before finalizing ideas.
